@@ -1,0 +1,10 @@
+NightMode:
+
+Criar um switch no Header
+
+-Header: black
+- Receitas para o seu dia : rgb(75 74 75){
+    -Card: #5a4444
+    -Border: 2px white
+}
+- Footer: rgb(119 100 100)
